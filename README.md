@@ -1,2 +1,3 @@
 # proyecto-escolar
-Haga lo que hicimos en el aula: Creando una branch.
+- Haga lo que hicimos en el aula: Creando una branch.
+- Crear ramas por aulas.
